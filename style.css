@@ -46,3 +46,13 @@ main {
 
 ul, ol {
   margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding: 15px;
+  background: #222;
+  color: #ddd;
+  border-radius: 10px;
+}
