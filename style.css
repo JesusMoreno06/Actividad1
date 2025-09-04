@@ -25,3 +25,9 @@ h1 {
   font-size: 2rem;
   margin-bottom: 10px;
 }
+
+main {
+  display: grid; /* Diseño en rejilla */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px; /* Separación entre tarjetas */
+}
