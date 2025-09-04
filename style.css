@@ -10,3 +10,13 @@ body {
   color: #333;         
   line-height: 1.6;
   padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #800000, #a83232); /* Degradado */
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
