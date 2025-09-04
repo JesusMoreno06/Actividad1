@@ -43,3 +43,6 @@ main {
 .card:hover {
   transform: scale(1.03);
 }
+
+ul, ol {
+  margin-left: 20px;
